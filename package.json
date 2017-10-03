@@ -1,12 +1,12 @@
 {
-  "name": "acidus",
+  "name": "Port2.0",
   "version": "1.0.0",
-  "description": "HTML5 Template",
+  "description": "Daniels Portfolio 2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "keenthemes.com",
+  "author": "Daniel Griffiths",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
