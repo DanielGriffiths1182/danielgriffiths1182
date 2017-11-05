@@ -1,12 +1,12 @@
 {
   "name": "Port2.0",
   "version": "1.0.0",
-  "description": "Daniels Portfolio 2.0",
+  "description": "Derived from bootstrap template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daniel Griffiths",
+  "author": "BootStrap Template",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
